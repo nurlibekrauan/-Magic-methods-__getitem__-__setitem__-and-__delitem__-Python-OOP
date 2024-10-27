@@ -1,0 +1,1 @@
+# -Magic-methods-__getitem__-__setitem__-and-__delitem__-Python-OOP
